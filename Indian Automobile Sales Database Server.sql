@@ -1,0 +1,1 @@
+CREATE DATABASE Indian_Automobile_Sales_Analysis;
