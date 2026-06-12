@@ -57,6 +57,7 @@ strategy, and product launches.
   premium SUVs show high price but low sales
 
 ## Dashboard Features
+- [Dashboard Preview](dashboard_screenshot.png)
 - KPI Cards — Total Sales, Best Model, SUV Sales, Top Segment
 - Sales by Company Treemap with drill-down to model level
 - Top 10 Models ranked bar chart
